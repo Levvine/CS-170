@@ -154,7 +154,10 @@ public class Main extends GraphicsProgram implements UnitList {
                                     }
                                     else { // enemy dies
                                         if (Unit.getEnemies() == 0) {
-                                            textArea.setText("Player wins!");
+                                            //textArea.setText("Player wins!");
+                                            final JDialog dialog = new JDialog();
+                                            JOptionPane.showMessageDialog(dialog, "You win! Thanks for playing!", "Mission Complete", 1);
+                                            System.exit(0); // Does not work in browsers
                                         }
                                         else {
                                             textArea.setText(textArea.getText() + "\nEnemies Remaining: " + Unit.getEnemies());
