@@ -16,7 +16,8 @@ The instructions window should appear. Confirm the dialogue box to continue.<br/
 The main window is composed of 3 components: Turn Counter, Game Interface, and Information. Data such as Player and Enemy hitpoints, status, and dialogue will be displayed in the Information section when relevant. Otherwise, all user interaction is currently performed on the Game Interface section.<br/><br/>
 ![User Interface](/Documentation/gameplay.PNG)
 
-When all win conditions are met, the user will be greeted by the endgame screen. The user will need to manually exit the game by closing the game window (see ***Known Issues***).\\
+When all win conditions are met, the user will be greeted by the endgame screen. The user will need to manually exit the game by closing the game window (see ***Known Issues***).\
+\
 ![Endgame](/Documentation/endgame.PNG)
 
 ## Gameplay Mechanics
