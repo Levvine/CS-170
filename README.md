@@ -23,8 +23,9 @@ When all win conditions are met, the user will be greeted by the endgame screen.
 <img src="Documentation/marth.png" align=right width=120>
 The objective of the game is to control the player character and defeat all enemies on the map. The enemy units are denoted by fruits. The current version of the game includes an apple, orange, and cherry enemy type that each have different stats for hitpoints and attack power.
 <br/>
+<br/>
 To control the player character, first click on the character **Marth**, depicted to the right of this description. Marth can move 2 spaces in any direction, although he is affected by terrain. To attack an enemy, simply move Marth onto a space occupied by an enemy and a battle will occur.
-
+<br/><br/>
 Afterwards, the HP of the player and enemy will be updated. A unit is defeated when its HP reaches zero. To win, defeat all the enemies!
 
 ## Known Issues
