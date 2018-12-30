@@ -6,7 +6,7 @@ Oxford College of Emory University
 Dependencies: Java Development Kit 1.8.0, AppletViewer (Included)
 
 ## Preface
-This project idea was inspired by and developed shortly after the release ofthe popular mobile game *Fire Emblem Heroes* by Nintendo.
+This project idea was inspired by and developed shortly after the release of the popular mobile game *Fire Emblem Heroes* by Nintendo.
 
 ## Usage Guide
 On Windows, simply download the Final Project folder and execute *run.bat* to demo the project.
