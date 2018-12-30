@@ -1,4 +1,4 @@
-# CS-170 - Final Project
+# CS-170: Final Project
 Contributors: Alan Huang, Eric Jin, Kevin Le\
 Instructor: Paul Oser\
 Oxford College of Emory University
