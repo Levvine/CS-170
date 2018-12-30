@@ -17,9 +17,9 @@ When all win conditions are met, the user will be greeted by the endgame screen.
 ![Endgame](/Documentation/endgame.PNG)
 
 ## Gameplay Mechanics
+<img src="Documentation/marth.png" align=right width=120>
 The objective of the game is to control the player character and defeat all enemies on the map. The enemy units are denoted by fruits. The current version of the game includes an apple, orange, and cherry enemy type that each have different stats for hitpoints and attack power.
 
-<img src="Documentation/marth%20sprite.png" align=right width=90>
 To control the player character, first click on the character **Marth**, which appears similar to the one on the right.
 
 ## Known Issues
