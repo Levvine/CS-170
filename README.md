@@ -1,6 +1,6 @@
 # CS-170: Final Project
 Contributors: Alan Huang, Eric Jin, Kevin Le\
-Instructor: Paul Oser\
+Instructor: Dr. Paul Oser\
 Oxford College of Emory University
 
 Dependencies: Java Development Kit 1.8.0, AppletViewer (Included)
